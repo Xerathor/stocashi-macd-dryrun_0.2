@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+data/*.db
+**/__pycache__/
+**/*.pyc
+**/data/cache/
+**/*.db
+**/.pytest_cache/
+.streamlit/
+.env
+**/.env
