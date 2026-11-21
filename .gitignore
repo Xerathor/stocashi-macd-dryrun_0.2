@@ -4,6 +4,7 @@ data/*.db
 **/__pycache__/
 **/*.pyc
 **/data/cache/
+**/macro/cache/
 **/*.db
 **/.pytest_cache/
 .streamlit/
